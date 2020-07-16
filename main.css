@@ -1,16 +1,19 @@
 
 .card-container {
-    display: flex;
+    margin: 0 auto;
+    display:flex;
+    flex-flow: row wrap;
     font-family: Arial, Helvetica, sans-serif;
-    max-width: 500px;
+    max-width: 75%;
+    
 }
 
 .product {
-    max-width: 250px;
+    width: 250px;
     margin: 20px;
     border: 1px solid blue;
     padding: 20px;
-    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(78, 49, 49, 0.75);
     -moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
     box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
 }
