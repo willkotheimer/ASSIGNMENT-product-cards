@@ -1,0 +1,60 @@
+
+.card-container {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 500px;
+}
+
+.product {
+    max-width: 250px;
+    margin: 20px;
+    border: 1px solid blue;
+    padding: 20px;
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
+.product header h2 {
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 1px dotted blue;
+}
+
+
+
+.first {
+
+}
+
+.first img {
+    width: 200px;
+    padding-left:5%;
+}
+
+.second h2, .third h2 {
+    font-size: 12px;
+}
+
+.second footer {
+    font-size: 9px;
+}
+ 
+.size {
+font-size:12px;
+}
+
+.weight {
+    font-size:12px;
+    }
+
+.small {
+    font-size:12px;
+    }
+
+.medium {
+    font-size:12px;
+    }
+
+.large {
+    font-size:12px;
+    }
