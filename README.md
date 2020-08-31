@@ -10,7 +10,7 @@ Prototype - This is a very rough draft, and would need a lot more styling and wo
 The main section consists of products that use an arrays to populate them.
 
 ## Code Style
-HTML5, CSS3, Flexbox
+HTML5, CSS3, Flexbox, Bootstrap
 
 ## Screenshots
 
@@ -23,7 +23,7 @@ HTML5, CSS3, Flexbox
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4698c365-d3c8-40ab-93eb-c7d26a88a540/deploy-status)](https://app.netlify.com/sites/product-cards/deploys)
 
 ## Features
-This site features a personal projects, and some drag and drop functionality with the employment section.
+This site features a demo of twitter bootstrap that shows product cards.
 
 ## Code Example
 ```
